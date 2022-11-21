@@ -1,0 +1,38 @@
+.footer{
+    background-color: black;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.img{
+    width: 150px;
+    height: 80px;
+    margin-top: 1rem;
+}
+.two{
+    color: white;
+    margin-top: 1.6rem;
+}
+.icon{
+    color: white;
+}
+.questions{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.icon{
+    font-size: 38px;
+    margin-top: 1rem;
+}
+.btn{
+    color: white;
+    margin-top: 1.6rem;
+   background-color: gray;
+   height: 35px;
+   width: 73px;
+   font-weight: bold;
+   font-size: 16px;
+}
